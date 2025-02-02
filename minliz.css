@@ -176,7 +176,7 @@
       overflow: hidden; /* 넘치는 부분 숨기기 */
       position: relative;
       justify-content: center;
-      margin-left: 5px;
+      margin-left: 10px;
     }
     .slides {
       display: flex;
@@ -189,7 +189,7 @@
       flex-shrink: 0; 
     }
     #slide img {
-      width: 100%;
+      width: 85%;
       height: 60%;
       object-fit: cover; 
     }
